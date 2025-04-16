@@ -13,7 +13,7 @@ public class sistemaStudySurf {
     public static String[] idadeProfessor = new String[4];
     public static String[] rgProfessor = new String[4];
     public static String[] enderecoProfessor = new String[4];
-    publ
+    
 
 
     public static String[] listaAulas = new String[10];
